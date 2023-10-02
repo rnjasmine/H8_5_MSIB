@@ -16,3 +16,5 @@ dependencies:
   - folium
   - scipy
   - scikit-learn
+  - plotly
+  - geopy
